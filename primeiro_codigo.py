@@ -18,3 +18,4 @@ numero3 = 3*7
 print("a multiplicação é", numero3)
 numero4 = 2 / 20
 print("a divisão é", numero4)
+print("alterar")
